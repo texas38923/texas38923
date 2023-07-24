@@ -12,10 +12,11 @@ Anurag = {
   skills: {
       frontend: ["HTML", "CSS", "sass" , "BootStrap", "JavaScript"],
       3dModelling: ["Blender"],
-      videoEditing: ["Adobe After Effects" , "Shotcut"]
+      videoEditing: ["Adobe After Effects" , "Shotcut"],
+      UI/UXdesigning: ["Figma"]
   },
- current: "I am learning React to enhance my front-end skills and focusing on Data Structures and Algorithms",
- funFact: "I can dominate you in any game that you name"
+  current: "I am learning React to enhance my front-end skills and focusing on Data Structures and Algorithms...",
+  funFact: "I can dominate you in any game that you can think of!"
 }
 ```
 <br>
