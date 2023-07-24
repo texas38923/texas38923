@@ -1,8 +1,5 @@
 
 <h2> Hey There!, I'm Anurag! <img src="https://media.giphy.com/media/l49K0ffVgFGJkZRLi/giphy.gif" width="60"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<!-- <p><em>Innovative problem-solver with a knack for finding creative solutions. <br> -->
-<!-- <img src="https://media.giphy.com/media/l1J9wQIaj0He3bTSU/giphy.gif" width="30">  -->
 
 ### About me...  
 
