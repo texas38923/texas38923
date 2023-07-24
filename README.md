@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**texas38923/texas38923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey There!, I'm Anurag! <img src="https://media.giphy.com/media/l49K0ffVgFGJkZRLi/giphy.gif" width="60"></h2>
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
+<!-- <p><em>Innovative problem-solver with a knack for finding creative solutions. <br> -->
+<!-- <img src="https://media.giphy.com/media/l1J9wQIaj0He3bTSU/giphy.gif" width="30">  -->
 
-Here are some ideas to get you started:
+### About me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Anurag = new Person();
+Anurag = {
+  pronouns: "He" | "Him",
+  code: ["C/CPP"],
+  askMeAbout: ["UI/UX", "Frontend Web Development"],
+  skills: {
+      frontend: ["HTML", "CSS", "sass" , "BootStrap", "JavaScript"],
+      3dModelling: ["Blender"],
+      videoEditing: ["Adobe After Effects" , "Shotcut"]
+  },
+ current: "I am learning React to enhance my front-end skills and focusing on Data Structures and Algorithms",
+ funFact: "I can dominate you in any game that you name"
+}
+```
+<br>
+<b>Reach out to me:</b></em></p>
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/texas38923) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kamra-56474922a/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teq.arine)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
