@@ -15,7 +15,7 @@ Anurag = {
       videoEditing: ["Adobe After Effects" , "Shotcut"],
       UI/UXdesigning: ["Figma"]
   },
-  current: "I am learning React to enhance my front-end skills and focusing on Data Structures and Algorithms...",
+  current: "I am learning NodeJS & ExpressJS, and focusing on Data Structures and Algorithms...",
   funFact: "I can dominate you in any game that you can think of!"
 }
 ```
